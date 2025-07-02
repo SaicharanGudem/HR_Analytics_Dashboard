@@ -15,7 +15,7 @@ This is an interactive HR Analytics dashboard built in Power BI to analyze emplo
 
 ## 📸 Preview
 
-![Dashboard Preview](Screenshot%20(20).png)
+![Dashboard Preview](HR Analytics dashboard_preview.jpg)
 
 ## 📬 Contact
 For any queries: [saicharangudem7@gmail.com]
