@@ -7,7 +7,6 @@ This is an interactive HR Analytics dashboard built in Power BI to analyze emplo
 - Attrition by education, age, and gender
 - Salary slab vs attrition
 - Job role-wise and tenure-wise attrition analysis
-- Department filter for HR, R&D, and Sales
 
 ## 🛠 Tools Used
 - Power BI
